@@ -269,7 +269,7 @@ Name | Website | Region
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Extreme Networks](/company-profiles/extreme-networks.md) | https://www.extremenetworks.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
-[Ezyinfra](/company-profiles/ezyinfra.md) | https://ezyinfra.dev | Worldwide
+[Ezyinfra-Dev](/company-profiles/ezyinfra-dev.md) | https://ezyinfra.dev | Worldwide
 [FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
 [Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
 [Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
