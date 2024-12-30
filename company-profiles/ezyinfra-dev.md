@@ -1,7 +1,7 @@
-# EzyInfra
+# EzyInfra Dev
 
 ## Company Blurb
-EzyInfra is a leading **DevOps and Infrastructure Consulting Company** dedicated to empowering startups with innovative solutions in **DevSecOps** and **Site Reliability Engineering (SRE)**. Our mission is to simplify infrastructure management, enabling organizations to scale efficiently and securely while optimizing costs. With a focus on community-driven collaboration, we help businesses navigate their digital transformation journey.
+EzyInfra Dev is a leading **DevOps and Infrastructure Consulting Company** dedicated to empowering startups with innovative solutions in **DevOps** and **Infrastructure**. Our mission is to simplify infrastructure management, enabling organizations to scale efficiently and securely while optimizing costs. With a focus on community-driven collaboration, we help businesses navigate their digital transformation journey.
 
 ## Company Size
 1-10 employees
